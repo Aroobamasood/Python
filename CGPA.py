@@ -30,7 +30,7 @@ Total_Grade_Points = ((Subject_th_marks+Subject_lab_marks)*credit_hours)\
                      + ((Subject_th_marks+Subject_lab_marks)*credit_hours) + \
                      (Subject_marks*credit_hours)+(Subject_marks*credit_hours)+(Subject_marks*credit_hours)
 
-
+print("\n \n \n-------------STUDENT RESULT---------------")
 print("Name of student: ", Name)
 print("Registration number: ", Reg_no)
 print("Total Grade points are: ", Total_Grade_Points)
